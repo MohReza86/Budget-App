@@ -13,24 +13,5 @@ When the budget object is printed it will display:
 
 It will also create a chart a bar chart based on the percentage spent in each category, as follows:
 
-Percentage spent by category
-100|          
- 90|          
- 80|          
- 70|          
- 60| o        
- 50| o        
- 40| o        
- 30| o        
- 20| o  o     
- 10| o  o  o  
-  0| o  o  o  
-    ----------
-     F  C  A  
-     o  l  u  
-     o  o  t  
-     d  t  o  
-        h     
-        i     
-        n     
-        g     
+
+![Screen Shot 2022-05-13 at 5 23 46 PM](https://user-images.githubusercontent.com/19292138/168315891-fb4066e9-2a80-47be-9134-709d59e2b49b.png)
