@@ -1,7 +1,7 @@
 ## Budget App
 
-Using object-oriented programming, the algorithm instantiates objects based on different budget categories 
-like food, clothing, and entertainment. When objects are created, they are passed in the name of the category.
+Employing OOP, the algorithm instantiates objects based on different budget categories 
+like food, clothing, entertainment etc.. When objects are created, they are passed in the name of the category.
 
 The Budget class can handle different transcactions, including deposit, withdraw, tranfer to other budget 
 categories and balance check. 
