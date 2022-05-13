@@ -7,6 +7,7 @@ The Budget class can handle different transcactions, including deposit, withdraw
 categories and balance check. 
 
 When the budget object is printed it will display:
+
 ![Screen Shot 2022-05-13 at 5 21 55 PM](https://user-images.githubusercontent.com/19292138/168315539-2d0e7b9e-a392-4bc4-a8a1-232e19243d43.png)
 
 
